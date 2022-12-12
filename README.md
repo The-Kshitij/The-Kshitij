@@ -1,14 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" width="200"/>
 
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/kshitij-tripathi-50b244202/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align: left/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=Jm5nvbgY8RM">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" align: right/>
-  </a>
-  </div>
+  
 
   <img src="https://komarev.com/ghpvc/?username=The-Kshitij&style=flat-square&color=blue" />
   <h1>
