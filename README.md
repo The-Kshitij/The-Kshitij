@@ -24,4 +24,4 @@
 
 ### :man_technologist: Name : Kshitij Tripathi
 ### 📱 Number :    9930718584
-I am a Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with knowledge of unreal engine, unity, c++, c# and 3d maths.
+I am a  programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with knowledge of unreal engine, unity, c++, c# and 3d maths. I would like to work at a place which invloves programming and problem solving.
